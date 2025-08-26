@@ -40,17 +40,15 @@ APIs are tested using **Postman**.
 
 ## 🚀 How to Run the Project
 
-### 🔹 Backend (Spring Boot)
-1. Clone the repository and navigate to the backend folder  
+### 🔹 Backend (Spring Boot)  
+1. Clone the repository and navigate to the backend folder 
    ```bash
    git clone https://github.com/keerthi-0235/ecom-backend.git
    cd ecom-backend
-2.Configure database in application.properties
 
-3.Run the application
-
-
-mvn spring-boot:run
+ 2.Configure database in application.properties  
+ 3.Run the application  
+ mvn spring-boot:run
 4.APIs will be available at
 
 
