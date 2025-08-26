@@ -48,28 +48,28 @@ APIs are tested using **Postman**.
 
  2.Configure database in application.properties  
  3.Run the application  
- mvn spring-boot:run
+ mvn spring-boot:run  
+ 
 4.APIs will be available at
 
 
 http://localhost:8080/api
-🔹 Frontend (React + Vite)
+🔹 Frontend (React + Vite)  
 1.Navigate to the frontend folder
+cd ecom-frontend1  
 
+2.Install dependencies  
+npm install  
 
-cd ecom-frontend1
-2.Install dependencies
+3.Start development server  
+npm run dev  
 
-
-npm install
-3.Start development server
-
-
-npm run dev
 4.Visit in browser:
-http://localhost:5173/
+http://localhost:5173/  
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack  
+
 Backend: Spring Boot, Spring Data JPA, REST APIs, MySQL/H2
 
 Frontend: React, Vite, 
