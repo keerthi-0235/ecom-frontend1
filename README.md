@@ -45,45 +45,32 @@ APIs are tested using **Postman**.
    ```bash
    git clone https://github.com/keerthi-0235/ecom-backend.git
    cd ecom-backend
-Configure database in application.properties
+2.Configure database in application.properties
 
-Run the application
+3.Run the application
 
-bash
-Copy
-Edit
+
 mvn spring-boot:run
-APIs will be available at
+4.APIs will be available at
 
-bash
-Copy
-Edit
+
 http://localhost:8080/api
 🔹 Frontend (React + Vite)
-Navigate to the frontend folder
+1.Navigate to the frontend folder
 
-bash
-Copy
-Edit
+
 cd ecom-frontend1
-Install dependencies
+2.Install dependencies
 
-bash
-Copy
-Edit
+
 npm install
-Start development server
+3.Start development server
 
-bash
-Copy
-Edit
+
 npm run dev
-Visit in browser:
-
-arduino
-Copy
-Edit
+4.Visit in browser:
 http://localhost:5173/
+
 🛠️ Tech Stack
 Backend: Spring Boot, Spring Data JPA, REST APIs, MySQL/H2
 
